@@ -1,0 +1,17 @@
+YOLOv8 Model Weights
+=====================
+
+This folder contains weight files (.pt) for three versions of the YOLOv8 model.
+
+Included files:
+----------------
+- yolov8l_final.pt : YOLOv8-Large model weights
+- yolov8s_final.pt : YOLOv8-Small model weights
+- yolov8n_final.pt : YOLOv8-Nano model weights
+
+Note:
+-----
+These weights can be used for inference or fine-tuning in compatible YOLOv8 environments.
+
+download link
+https://drive.google.com/file/d/1Ts0stghqhEF2Q78Nxn57vnElx7XYgv4R/view?usp=sharing
